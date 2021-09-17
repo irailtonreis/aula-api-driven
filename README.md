@@ -9,10 +9,9 @@ git clone https://github.com/irailtonreis/aula-api-driven.git
 cd  aula-api-driven
 npm i
 ```
-
+executará o servidor na porta:3000 
 ```sh
 npm run dev
-npm i
 ```
 
 ## Dependências
